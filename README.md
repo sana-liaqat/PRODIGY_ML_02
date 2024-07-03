@@ -2,6 +2,8 @@
 
 # Project Description: Customer Segmentation of a retail store using KMeans Clustering by Sana Liaqat
 
+Description: This repository contains the implementation of KMeans Clustering as part of my Machine Learning Internship at Prodigy InfoTech.
+
 Objective: This project aims to segment mall customers based on their purchasing behavior and demographic attributes using KMeans clustering.
 
 Data Source: The data used in this project is sourced from a CSV file stored on Google Drive, containing information about mall customers, including age, annual income, and spending score.
